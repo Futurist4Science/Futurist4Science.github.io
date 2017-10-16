@@ -9,9 +9,7 @@
 
 #### Just For Fun
 
-![Madness!](Fun10-13-2017.gif)
 
-Thanks to [Gifhy](http://gph.is/HdEceW) 
 
 #### Contact Information
 
