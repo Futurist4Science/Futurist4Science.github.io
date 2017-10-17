@@ -9,7 +9,7 @@
 
 #### Just For Fun
 
-![Apotosis](apotosiswallchrt.gif)
+![Apotosis](images/apotosiswallchrt.gif)
  
 -Thanks to [Vivek](http://biochem-vivek.tripod.com/id58.html) 
 
