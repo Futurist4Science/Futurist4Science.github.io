@@ -17,3 +17,6 @@ Thanks to [Vivek](http://biochem-vivek.tripod.com/id58.html)
 #### Contact Information
 
 _work in progress..._
+
+#### Badges
+![OpenStand](images/128x128-black1.png)
