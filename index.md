@@ -3,7 +3,7 @@
 ### Current Projects
 
 <ol>
-<li value=7>AI at UW: [Generalized Data Mining of Science Journals]() engineering group project</li>
+<li value=7> AI at UW: <a href="placeholder">Generalized Data Mining of Science Journals</a> engineering group project
 </ol>
 
 #### Just For Fun
@@ -15,12 +15,12 @@ Thanks to [Vivek](http://biochem-vivek.tripod.com/id58.html)
 #### Past Projects
 
 <ol>
-<li value=6>LOCI: Image [PreProcessingModule](https://github.com/uw-loci/curvelets/tree/PreProcessingModule) for CurveAlign/CT-FIRE</li>
-<li value=5>LOCI: [CT-FIRE](https://loci.wisc.edu/software/ctfire) collagen fiber image analysis software (support/dev Linux build)</li>
-<li value=4>LOCI: [CurveAlign](https://loci.wisc.edu/software/curvealign) collagen fiber image analysis software (support/dev Linux build)</li>
-<li value=3>[Matlab Scripts](https://github.com/Futurist4Science/Matlab-shortcuts) useful scripts I needed</li>
-<li value=2>[My Website](https://github.com/Futurist4Science/Futurist4Science.github.io) GitHub pages site</li>
-<li value=1>[hello-world](https://github.com/Futurist4Science/hello-world) first practice project</li>
+<li value=6> LOCI: Image <a href="https://github.com/uw-loci/curvelets/tree/PreProcessingModule">PreProcessingModule</a> for CurveAlign/CT-FIRE software</li>
+<li value=5>LOCI: <a href="https://loci.wisc.edu/software/ctfire">CT-FIRE</a> collagen fiber image analysis software (support/dev Linux build)</li>
+<li value=4>LOCI: <a href="https://loci.wisc.edu/software/curvealign">CurveAlign</a> collagen fiber image analysis software (support/dev Linux build)</li>
+<li value=3> <a href="https://github.com/Futurist4Science/Matlab-shortcuts">Matlab Scripts</a> useful scripts I needed</li>
+<li value=2> <a href="https://github.com/Futurist4Science/Futurist4Science.github.io">My Website</a> GitHub pages site</li>
+<li value=1> <a href="https://github.com/Futurist4Science/hello-world">hello-world</a> first practice project</li>
 </ol>
 
 #### Contact Information
