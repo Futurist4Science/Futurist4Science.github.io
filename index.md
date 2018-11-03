@@ -3,7 +3,7 @@
 ### Current Projects
 
 <ol>
-<li value=7> AI at UW: <a href="placeholder">Generalized Data Mining of Science Journals</a> engineering group project
+<li value=7> AI at UW: <a href="https://github.com/ai-club-uwmadison/scientific-journal-mining">Generalized Data Mining of Science Journals</a> engineering group project
 </ol>
 
 #### Just For Fun
