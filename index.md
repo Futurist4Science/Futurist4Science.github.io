@@ -1,3 +1,5 @@
+<html>
+
 ## Welcome To My Page
 
 ### Current Projects
@@ -29,3 +31,5 @@ _work in progress..._
 
 #### Badges
 ![OpenStand](images/128x128-black1.png)
+
+</html>
